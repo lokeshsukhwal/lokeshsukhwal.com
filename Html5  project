@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Lokesh></title>
+</head>
+<body style="margin: 25px">
+	<header>
+		<h1 style="color: blue;text-align: center;">Lokesh Sukhwal</h1>
+		<nav style="background-color: lightgreen">
+			<a href="">One</a>
+			<a href="">Two</a>
+			<a href="">Three</a>
+			<a href="">Youe Choice</a>
+		</nav>
+	</header>
+	<section style="background-color: lightgrey">
+		<h2>Favorite foods</h2>
+		<ul>
+			<li>Apples</li>
+			<li>pizza</li>
+			<li>hot dog</li>
+			<li>chocolate cake</li>
+		</ul>
+	</section>
+	<section style="background-color: lightgrey">
+		<h2>Achievements</h2>
+		<label for="file"> progress in this course (100%):</label>
+
+<progress id="file" max="100" value="100"> 70% </progress><br>
+
+<label for="file">progress in the specialization capstone(20%) :</label>
+
+<progress id="file" max="100" value="20"> 70% </progress><br>
+
+<label for="file"> progress in the life goals(67%):</label>
+
+<progress id="file" max="100" value="67"> 70% </progress><br>
+</section>
+<section style="background-color: lightgrey">
+	<h2>More About Me</h2>
+	<details><summary>My Childhood</summary>
+	I grew up in India Rajasthan . I lived near a beautiful lake nakki and i really miss the sunsets over the water
+</details>
+</section style="background-color: lightgrey">
+
+<footer>
+	<p>
+		<img src=" http://www.intro-webdesign.com/images/newlogo.png" alt ="logo" width="10%"/>This page was created by Lokesh Sukhwal To learn more about web design, visit Intro to Web Design, visit<a href="http://www..com."Intro to Web design>.<p>https://github.com/lokeshsukhwal/lokeshsukhwal.com</p>
+
+	</p>
+	
+
+</footer>
